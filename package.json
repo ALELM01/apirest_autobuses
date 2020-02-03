@@ -1,0 +1,22 @@
+{
+  "name": "autobuses-leon",
+  "version": "1.0.0",
+  "description": "esta será nuestra api para los autobuses",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ALELM01/apirest_autobuses.git"
+  },
+  "author": "alejandro leon",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ALELM01/apirest_autobuses/issues"
+  },
+  "homepage": "https://github.com/ALELM01/apirest_autobuses#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
